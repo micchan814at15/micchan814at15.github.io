@@ -1,0 +1,12 @@
+------------------------------
+Sending user name:GC監視システム#9669
+Sending user ID:482849264389586959
+Message:お前のことが好きだったんだよ！(唐突)
+Message ID:748250399181504634
+Mermo identification ID:56211752
+Date and time received:2020/8/27 3:39:56.925965(GMT +09:00 Tokyo,Japan)
+Destination Server ID:722722948611571742
+Destination channel ID:727168417190117476
+Message link:https://discordapp.com/channels/722722948611571742/727168417190117476/748250399181504634
+Server name:Mermo Surveillance Server Channel name:message
+------------------------------
